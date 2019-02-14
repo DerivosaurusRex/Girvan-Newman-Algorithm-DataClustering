@@ -1,2 +1,2 @@
-# diplomski_projekt2016
-Implementation of Girvan-Newman algorithm based on Facebook profile data an JUNG Java framework
+# Girvan-Newman Algorithm implementation
+Implementation of Girvan-Newman algorithm and visualisation based on Facebook profile data an JUNG Java framework
